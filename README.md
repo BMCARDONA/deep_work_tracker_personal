@@ -2,7 +2,7 @@
 
 This is my personal instance of the Deep Work Tracker. If you'd like to create your own, check out [this](https://github.com/BMCARDONA/deep_work_tracker) repository.
  
-Here's my current deep work monthly/daily summary: 
+Here's my current monthly/daily deep work summary: 
 
  ### Monthly Breakdown: 
 ![Bar Chart](July_2023/figures/monthly_breakdown.png) 
