@@ -1,8 +1,8 @@
 # Deep Work Tracker (Personal)
 
-This is my personal instance of the Deep Work Tracker. If you'd like to create your own, check out [this](https://github.com/BMCARDONA/deep_work_tracker) repository.
+This is my personal implementation of the Deep Work Tracker. If you'd like to create your own implementation, please check out [this](https://github.com/BMCARDONA/deep_work_tracker) repository.
  
-Here's my current monthly/daily deep work summary: 
+Here's my July 2023 deep work breakdown: 
 
  ### Monthly Breakdown: 
 ![Bar Chart](July_2023/figures/monthly_breakdown.png) 
