@@ -5,7 +5,7 @@ This is my personal instance of the Deep Work Tracker. If you'd like to create y
 Here's my current monthly/daily summary: 
 
  ### Monthly Breakdown: 
-![Bar Chart](july_2023/figures/monthly_breakdown.png) 
+![Bar Chart](July_2023/figures/monthly_breakdown.png) 
 
  ### Daily Breakdown: 
-![Facet Plot](july_2023/figures/daily_breakdown.png) 
+![Facet Plot](July_2023/figures/daily_breakdown.png) 
