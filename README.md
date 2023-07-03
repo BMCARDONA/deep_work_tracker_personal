@@ -8,4 +8,4 @@ Here's my July 2023 deep work breakdown:
 ![Bar Chart](July_2023/figures/monthly_breakdown.png) 
 
  ### Daily Breakdown: 
-![Facet Plot](July_2023/figures/daily_breakdown.png) 
+![Facet Plot](July_2023/figures/daily_breakdown.png)
